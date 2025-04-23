@@ -21,6 +21,7 @@ Feel free to modify or replace `Sample Value` with your own dataset!
 ```bash
 git clone https://github.com/danikam/map-state-data-example.git
 cd map-state-data-example
+```
 
 ## Install dependencies
 
